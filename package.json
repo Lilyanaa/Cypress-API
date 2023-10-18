@@ -1,0 +1,23 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "latihan-cypress",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^13.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lilyanaa/Cypress-API.git"
+  },
+  "author": "lilyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lilyanaa/Cypress-API/issues"
+  },
+  "homepage": "https://github.com/Lilyanaa/Cypress-API#readme"
+}
